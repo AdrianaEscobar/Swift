@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MiniRetoAEEB.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D26B75031C8DE6E50064BC60</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D26B75171C8DE6E50064BC60</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D26B75221C8DE6E50064BC60</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
